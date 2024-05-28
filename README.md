@@ -1,2 +1,2 @@
 # robot-RequestsLibrary
- testing of RESTful APIs
+API Automation
